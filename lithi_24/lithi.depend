@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616038891 source:e:\project\julfikar\main.cpp
+	<iostream>
+	"maxmin.h"
+
+1616038838 e:\project\julfikar\maxmin.h
+
+1616038853 source:e:\project\julfikar\maxmin.cpp
+	"maxmin.h"
+	<iostream>
+
